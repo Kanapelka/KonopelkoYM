@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Athena.Infrastructure", "Athena.Infrastructure\Athena.Infrastructure.csproj", "{C9BDE542-B96A-4101-9A02-46357122AAED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Athena.Core", "Athena.Core\Athena.Core.csproj", "{FF7FD6FC-DE2E-414D-8108-3D8A237FEB00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Athena.Api", "Athena.Api\Athena.Api.csproj", "{4AFB76A9-7B71-452C-8B37-3FF3AA877A95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9BDE542-B96A-4101-9A02-46357122AAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9BDE542-B96A-4101-9A02-46357122AAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9BDE542-B96A-4101-9A02-46357122AAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9BDE542-B96A-4101-9A02-46357122AAED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF7FD6FC-DE2E-414D-8108-3D8A237FEB00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF7FD6FC-DE2E-414D-8108-3D8A237FEB00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF7FD6FC-DE2E-414D-8108-3D8A237FEB00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF7FD6FC-DE2E-414D-8108-3D8A237FEB00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AFB76A9-7B71-452C-8B37-3FF3AA877A95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AFB76A9-7B71-452C-8B37-3FF3AA877A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AFB76A9-7B71-452C-8B37-3FF3AA877A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AFB76A9-7B71-452C-8B37-3FF3AA877A95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

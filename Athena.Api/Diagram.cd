@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Athena.Api.Startup" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAgAAACAAAAAA=</HashCode>
+      <FileName>Startup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Athena.Api.Program" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Athena.Api.Controllers.UsersController" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAABIAAABQAAAAAAAAEAAAAAIA=</HashCode>
+      <FileName>Controllers\UsersController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Athena.Api.Controllers.TicketStatusesController" Collapsed="true">
+    <Position X="4" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\TicketStatusesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Athena.Api.Controllers.AuthorizationController" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAIAAAAAAAAEAAAAAAAAAEABAAAAAAAA=</HashCode>
+      <FileName>Controllers\AuthorizationController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Athena.Api.Controllers.CommentsController" Collapsed="true">
+    <Position X="4" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\CommentsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Athena.Api.Controllers.DashboardController" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Controllers\DashboardController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Athena.Api.Controllers.MembersController" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAIAAAAAAAACAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\MembersController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Athena.Api.Controllers.NotificationsController" Collapsed="true">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\NotificationsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Athena.Api.Controllers.ProjectsController" Collapsed="true">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAQAAYCCAAAAAgAAAAAAAAAAACAAAAAABA=</HashCode>
+      <FileName>Controllers\ProjectsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Athena.Api.Controllers.TasksController" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\TasksController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Athena.Api.Controllers.TicketsController" Collapsed="true">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAABAAAABAAAAAAAAAAAAAAAAAgAQAAAAAA=</HashCode>
+      <FileName>Controllers\TicketsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Athena.Api.Services.AthenaServicesConfiguration" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAIAAEgAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Services\AthenaServicesConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Athena.Api.Services.JwtService" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAABAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\JwtService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Athena.Api.Services.JwtSettings" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAIAAAAAA=</HashCode>
+      <FileName>Services\JwtSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Athena.Api.Services.Settings.CorsSettings" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Services\Settings\CorsSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Athena.Api.Services.Settings.InfrastructureSettings" Collapsed="true">
+    <Position X="2.25" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEAAAAAAAA=</HashCode>
+      <FileName>Services\Settings\InfrastructureSettings.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Athena.Core.Core" Collapsed="true">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Core.SqlServerInfrastructureConfigurationProvider" Collapsed="true">
+    <Position X="6" Y="6.5" Width="3.25" />
+    <TypeIdentifier />
+    <Lollipop Position="0.489" />
+  </Class>
+  <Class Name="Athena.Core.Services.AuthorizationService" Collapsed="true">
+    <Position X="13" Y="2.25" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Core.Services.BaseService" Collapsed="true">
+    <Position X="17.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Core.Services.CommentService" Collapsed="true">
+    <Position X="15" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Core.Services.DashboardService" Collapsed="true">
+    <Position X="17" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Core.Services.MemberService" Collapsed="true">
+    <Position X="21" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Core.Services.NotificationBuilder" Collapsed="true">
+    <Position X="13.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Core.Services.NotificationService" Collapsed="true">
+    <Position X="19" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Core.Services.ProjectService" Collapsed="true">
+    <Position X="21" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Core.Services.TaskSerivce" Collapsed="true">
+    <Position X="11.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Core.Services.TicketService" Collapsed="true">
+    <Position X="15.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Core.Services.TicketStatusService" Collapsed="true">
+    <Position X="18.75" Y="2.25" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Core.Services.UserService" Collapsed="true">
+    <Position X="23" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Core.Result.Result&lt;TPayload&gt;" Collapsed="true">
+    <Position X="16" Y="3.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Core.Result.ResultType" Collapsed="true">
+    <Position X="17.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Infrastructure.Context" Collapsed="true">
+    <Position X="12" Y="7.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Infrastructure.Models.Comment" Collapsed="true">
+    <Position X="14" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Infrastructure.Models.Member" Collapsed="true">
+    <Position X="15.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Infrastructure.Models.Notification" Collapsed="true">
+    <Position X="17.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Infrastructure.Models.Observer" Collapsed="true">
+    <Position X="14" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Infrastructure.Models.Project" Collapsed="true">
+    <Position X="15.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Infrastructure.Models.Task" Collapsed="true">
+    <Position X="17.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Infrastructure.Models.Ticket" Collapsed="true">
+    <Position X="14" Y="8.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Infrastructure.Models.TicketStatus" Collapsed="true">
+    <Position X="15.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Infrastructure.Models.User" Collapsed="true">
+    <Position X="17.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Infrastructure.Models.Enums.MemberRole" Collapsed="true">
+    <Position X="12" Y="9.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Infrastructure.Entities.Enums.Priority" Collapsed="true">
+    <Position X="12.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Infrastructure.Entities.Configuration.CommentEntityConfiguration" Collapsed="true">
+    <Position X="14" Y="9.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Infrastructure.Entities.Configuration.NotificationEntityConfiguration" Collapsed="true">
+    <Position X="17.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Infrastructure.Entities.Configuration.ObserverEntityConfiguration" Collapsed="true">
+    <Position X="14" Y="10.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Infrastructure.Entities.Configuration.ProjectEntityConfiguration" Collapsed="true">
+    <Position X="15.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Infrastructure.Entities.Configuration.TaskEntityConfiguration" Collapsed="true">
+    <Position X="17.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Infrastructure.Entities.Configuration.TicketEntityConfiguration" Collapsed="true">
+    <Position X="14" Y="11.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Infrastructure.Entities.Configuration.TicketStatusEntityConfiguration" Collapsed="true">
+    <Position X="15.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Infrastructure.Entities.Configuration.UserEntityConfiguration" Collapsed="true">
+    <Position X="17.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Athena.Infrastructure.Models.Configuration.MemberEntityConfiguration" Collapsed="true">
+    <Position X="15.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="Athena.Infrastructure.IInfrastructureOptionsProvider" Collapsed="true">
+    <Position X="6" Y="5.75" Width="2.75" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Athena.Infrastructure.IInfrastructureSettings" Collapsed="true">
+    <Position X="12" Y="6.5" Width="1.75" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

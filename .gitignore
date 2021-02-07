@@ -1,0 +1,10 @@
+bin/
+obj/
+/packages/
+
+# IDEs and code editors
+.vs/
+.vscode/
+.idea/
+
+**/react-app
