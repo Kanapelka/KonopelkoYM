@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Athena.Core", "Athena.Core\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Athena.Api", "Athena.Api\Athena.Api.csproj", "{4AFB76A9-7B71-452C-8B37-3FF3AA877A95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Athena.Tests", "Athena.Tests\Athena.Tests.csproj", "{3D153FB1-239A-4E88-90F7-A93326D8C064}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{4AFB76A9-7B71-452C-8B37-3FF3AA877A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AFB76A9-7B71-452C-8B37-3FF3AA877A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AFB76A9-7B71-452C-8B37-3FF3AA877A95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D153FB1-239A-4E88-90F7-A93326D8C064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D153FB1-239A-4E88-90F7-A93326D8C064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D153FB1-239A-4E88-90F7-A93326D8C064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D153FB1-239A-4E88-90F7-A93326D8C064}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

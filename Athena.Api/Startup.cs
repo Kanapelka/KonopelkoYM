@@ -58,10 +58,10 @@ namespace Athena.Api
 
             app.UseEndpoints(endpoints => endpoints.MapControllers());
 
-            app.UseSpa(spa =>
+            /*app.UseSpa(spa =>
             {
                 spa.Options.SourcePath = "react-app";
-            });
+            });*/
         }
     }
 }
